@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Im Rausch der Gefühle
+
+This log tracks the cryptographic history and versioning for the song **Im Rausch der Gefühle** (im-rausch-der-gefuhle).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T13:24:42.027326 | `v1` | `9a411f829dbe65cdc1eea34f915721700bee92118f39b41e04b4dd9c74e1d82a` | `18b1c49e606038ab7ced0dd9d2315ae1906b0f237220b48162a1b832ece77286` | `2026-06-28_im-rausch-der-gefuhle-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
