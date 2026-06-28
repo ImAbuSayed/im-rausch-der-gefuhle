@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/im-rausch-der-gefuhle/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Im Rausch der Gefühle](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/im-rausch-der-gefuhle/) |
+| **Get License** | [Official Music Licensing for Im Rausch der Gefühle](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/im-rausch-der-gefuhle/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Steig zu mir in den Benz, Baby, wir flieh'n vor dem Licht
+> Die ganze Stadt schläft, aber wir beide noch nicht
+> Spür den Vibe in der Luft, Baby, du bist so sweet
+> Late Night Romance, no sleep, wir folgen dem Beat
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
